@@ -1,0 +1,1 @@
+    <td width="10%"><script src="embed.js"></script><script type="text/javascript" language="JavaScript">obj=new Object;obj.clockfile="5005-black.swf";obj.TimeZone="GMT-0500";obj.width=180;obj.height=60;obj.wmode="transparent";showClock(obj);</script></td>
